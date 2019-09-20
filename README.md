@@ -1,3 +1,1 @@
-# hexlet-basics
-My first repository on GitHub
-Hello world
+what the fuck bro
